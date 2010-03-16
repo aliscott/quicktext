@@ -1,0 +1,11 @@
+AUTHOR: Ali Scott
+
+To install:
+-----------
+python setup.py install
+
+To add shortcut bindings:
+-------------------------
+run gconf-editor
+set /apps/metacity/keybinding_commands/command_<NUM> = quicktext
+set /apps/metacity/global_keybindings/run_command_1 = <Control><Alt>m (or another shortcut)
