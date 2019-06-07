@@ -11,7 +11,6 @@ TODO: allow multi-lines
 """
 
 __author__ = 'Ali Scott'
-__email__ = 'ali.scott@gmail.com'
 
 import pygtk
 pygtk.require('2.0')
